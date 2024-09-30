@@ -1,4 +1,4 @@
-# iith-hacathon-
+# iith-hackathon-
 Web Based Problem Statement
 1 ) Event Management and Ticketing System
 Problem Statement:
